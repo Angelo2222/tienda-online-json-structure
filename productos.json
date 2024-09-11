@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "nombre": "Smartphone X200",
+      "desc": "Un smartphone con pantalla de 6.5 pulgadas y 128GB de almacenamiento.",
+      "precio": 299.99,
+      "imagen": "url_imagen_smartphone_x200.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Laptop Pro 15",
+      "desc": "Laptop con procesador i7, 16GB de RAM y 512GB SSD.",
+      "precio": 1299.99,
+      "imagen": "url_imagen_laptop_pro_15.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Auriculares Bluetooth",
+      "desc": "Auriculares inalámbricos con cancelación de ruido.",
+      "precio": 89.99,
+      "imagen": "url_imagen_auriculares_bluetooth.jpg"
+    }
+  ]
+  

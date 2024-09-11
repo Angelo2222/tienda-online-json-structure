@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "id_usuario": 1,
+      "fecha": "2024-09-01",
+      "total": 299.99,
+      "dirección": "Calle Falsa 123, Ciudad, País",
+      "productos": [
+        {
+          "id": 1,
+          "nombre": "Smartphone X200",
+          "precio": 299.99,
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "id_usuario": 2,
+      "fecha": "2024-09-02",
+      "total": 1389.98,
+      "dirección": "Avenida Siempre Viva 742, Ciudad, País",
+      "productos": [
+        {
+          "id": 2,
+          "nombre": "Laptop Pro 15",
+          "precio": 1299.99,
+          "cantidad": 1
+        },
+        {
+          "id": 3,
+          "nombre": "Auriculares Bluetooth",
+          "precio": 89.99,
+          "cantidad": 1
+        }
+      ]
+    }
+  ]
+  
